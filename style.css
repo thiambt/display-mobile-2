@@ -1,0 +1,147 @@
+*{
+ 
+  text-align: center;
+  max-width: auto;
+  margin: auto;
+  margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+  overflow-x: hidden;
+  position: relative;
+}
+
+html{
+	 text-align: center;
+  max-width: auto;
+  margin: auto;
+  margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+  overflow-x: hidden;
+  position: relative;
+}
+
+
+
+
+
+
+.app{
+text-align: center;
+  max-width: 400px;
+  margin: 2px;
+  margin-top: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+  overflow-x: hidden;
+  position: relative;
+}
+
+
+.logo{
+	text-align: left;
+	max-height: flex;
+	max-width: flex;
+	padding: 10px;
+	font-family: Verdana;
+	font-size: 19px;
+	font-weight: 700px;
+}
+
+.section{
+	text-align: center;
+  	max-width: flex;
+  	margin: auto;
+  	margin: 2px;
+  margin-top: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+  	overflow-x: hidden;
+  	position: relative;
+  	padding: 9px;
+}
+
+
+
+body {
+	text-align: center;
+    max-width: auto;
+    margin: 2px;
+    margin-top: 10px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    overflow-x: hidden;
+    position: relative;
+}
+
+img{
+	text-align: left;
+	max-height: 10%;
+	max-width: 10%;
+	padding: 2.0%;
+	border-width: thin;
+  	border-style: solid;
+  	border-color: black;
+}
+main .logo {
+	text-align: center;
+  max-width: auto;
+ margin: 2px;
+    margin-top: 10px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+  overflow-x: hidden;
+  position: relative;
+}
+
+h1{
+	font-size: 30px;
+	font-weight: 800px;
+	font: verdana;
+	margin: 1.5px;
+    margin-top: 10px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+
+}
+
+p{
+	font-family: :verdana;
+	margin: 2px;
+    margin-top: 10px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+}
+
+footer{
+	text-align: center;
+  	max-width: auto;
+  margin: 2px;
+    margin-top: 10px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+  overflow-x: hidden;
+  position: relative;
+}
+
+
+h3{
+	text-align: center;
+	font-size: 19px;
+	font-weight: 800px;
+	font: verdana;
+	margin: 2px;
+    margin-top: 10px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+}
